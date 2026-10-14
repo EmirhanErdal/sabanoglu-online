@@ -1,0 +1,30 @@
+{
+  "orientation": "portrait",
+  "background_color": "#F5F3EE",
+  "theme_color": "#131C3D",
+  "display": "standalone",
+  "scope": "./",
+  "name": "Şabanoğlu Toplayıcı",
+  "short_name": "Toplayıcı",
+  "description": "Mağaza sipariş toplama uygulaması",
+  "id": "./#/toplayici",
+  "start_url": "./#/toplayici",
+  "icons": [
+    {
+      "src": "icon-toplayici-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-toplayici-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-toplayici-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
